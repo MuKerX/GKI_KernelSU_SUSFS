@@ -1,3 +1,5 @@
+### I forked this project for personal usage, if you need to build a kernel, moved to upstream
+
 ### 这是一个自动构建GKI内核的仓库
 
 > 非GKI可以尝试[SukiSU云盘](https://alist.shirkneko.top)的资源，不支持一加ColorOS14、15
